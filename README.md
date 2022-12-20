@@ -1,6 +1,8 @@
-# C++ SFML Boilerplate for MacOS M1 width VSCode
+# C++ SFML Boilerplate for MacOS M1 with VSCode
 
 ## Versions
+
+`Macbook Pro` -> `M1`
 
 `MacOS` -> `12.4`
 
